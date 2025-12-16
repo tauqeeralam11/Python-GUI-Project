@@ -9,4 +9,7 @@ All the GUI projects that is built in Python.
 `tkinter`
 
 ## Projects List
-`1. Calculator Gui Application` <br/>
+`1. Simple Calculator` <br/>
+`2. Notepad` <br/>
+`3. Password Generator` <br/>
+`4. Unit Converter` <br/>
