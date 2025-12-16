@@ -2,7 +2,7 @@
 
 A lightweight, open-source text editor built with Python and Tkinter. This application replicates core Notepad functionalities with the addition of a dark mode theme.
 
-![Notepad Screenshot](notepad.png)
+<img src="notepad.png" width="600">
 
 ## Features
 
